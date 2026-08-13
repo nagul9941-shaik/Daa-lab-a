@@ -19,7 +19,7 @@ Usage:
 
 
 
- #Practical 3: Max-Heap and Min-Heap Sort
+#Practical 3: Max-Heap and Min-Heap Sort
 Aim
 
 To implement Min-Heap and Max-Heap Sort in Python.
