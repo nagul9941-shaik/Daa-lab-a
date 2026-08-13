@@ -17,20 +17,21 @@ Usage:
 1. linear search 
 2. binary search 
 
-# practical 3: Heap sort
-Heap Sort Practical
+
+
+Practical 3: Max-Heap and Min-Heap Sort
 Aim
 
-To implement Heap Sort using Min-Heap and Max-Heap in Python.
+To implement Min-Heap and Max-Heap Sort in Python.
 
 Description
-Min-Heap: Sorts elements in ascending order.
-Max-Heap: Sorts elements in descending order.
-Execution time is measured using Python's time module.
+Min-Heap Sort: Sorts elements in ascending order.
+Max-Heap Sort: Sorts elements in descending order.
+Execution time is measured using time.perf_counter().
 Time Complexity
 Best Case: O(n log n)
 Average Case: O(n log n)
 Worst Case: O(n log n)
 Conclusion
 
-Heap Sort was successfully implemented using Min-Heap and Max-Heap for ascending and descending order sorting.
+Min-Heap and Max-Heap Sort were successfully implemented to sort elements in ascending and descending order respectively.
