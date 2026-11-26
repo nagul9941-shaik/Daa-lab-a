@@ -121,7 +121,7 @@ Kruskal’s Algorithm is a greedy algorithm used to find the Minimum Spanning Tr
 CONCLUSION:
 Kruskal’s Algorithm efficiently finds the Minimum Spanning Tree of a connected, weighted graph. It selects edges with minimum cost while avoiding cycles and connects all vertices with minimum total weight. The Python implementation demonstrates how user input can be used to construct the graph and generate the MST. Overall, Kruskal’s Algorithm is a simple and useful technique for solving network and graph optimization problems.
 
-Practical 11: Floyd-Warshall Algorithm (All-Pairs Shortest Path)
+# Practical 11: Floyd-Warshall Algorithm (All-Pairs Shortest Path)
 This directory contains the Python implementation of the Floyd-Warshall Algorithm for finding All-Pairs Shortest Paths in a directed, weighted graph using Dynamic Programming.
 
 📌 Problem Overview & Paradigm
@@ -357,7 +357,7 @@ log
 V
 )
 .
-Practical 12: Travelling Salesman Problem (Dynamic Programming - Held-Karp Algorithm)
+# Practical 12: Travelling Salesman Problem (Dynamic Programming - Held-Karp Algorithm)
 This directory contains the Python implementation of the Travelling Salesman Problem (TSP) solved using the Held-Karp Dynamic Programming algorithm with Bitmask State Representation, alongside a comparison against the naive Brute-Force Permutation method.
 
 📌 Problem Overview & Paradigm
